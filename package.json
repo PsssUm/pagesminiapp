@@ -2,11 +2,13 @@
   "name": "vk-apps-get-money",
   "version": "1.0.0",
   "description": "",
-  "homepage": "",
+  "homepage": "https://github.com/psssum/psssum.github.io",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
