@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pagesminiapp/static/css/main.6e9853f2.chunk.css",
-    "main.js": "/pagesminiapp/static/js/main.cd259e7f.chunk.js",
-    "main.js.map": "/pagesminiapp/static/js/main.cd259e7f.chunk.js.map",
+    "main.css": "/pagesminiapp/static/css/main.d8160e10.chunk.css",
+    "main.js": "/pagesminiapp/static/js/main.f635378f.chunk.js",
+    "main.js.map": "/pagesminiapp/static/js/main.f635378f.chunk.js.map",
     "runtime-main.js": "/pagesminiapp/static/js/runtime-main.ec7ff13f.js",
     "runtime-main.js.map": "/pagesminiapp/static/js/runtime-main.ec7ff13f.js.map",
     "static/css/2.fc16c441.chunk.css": "/pagesminiapp/static/css/2.fc16c441.chunk.css",
-    "static/js/2.b48d695c.chunk.js": "/pagesminiapp/static/js/2.b48d695c.chunk.js",
-    "static/js/2.b48d695c.chunk.js.map": "/pagesminiapp/static/js/2.b48d695c.chunk.js.map",
+    "static/js/2.8a3f908e.chunk.js": "/pagesminiapp/static/js/2.8a3f908e.chunk.js",
+    "static/js/2.8a3f908e.chunk.js.map": "/pagesminiapp/static/js/2.8a3f908e.chunk.js.map",
     "index.html": "/pagesminiapp/index.html",
-    "precache-manifest.72753548ace540f4f87f356f9f4f27a7.js": "/pagesminiapp/precache-manifest.72753548ace540f4f87f356f9f4f27a7.js",
+    "precache-manifest.75556a060e386069a09f46aa7840a9a0.js": "/pagesminiapp/precache-manifest.75556a060e386069a09f46aa7840a9a0.js",
     "service-worker.js": "/pagesminiapp/service-worker.js",
     "static/css/2.fc16c441.chunk.css.map": "/pagesminiapp/static/css/2.fc16c441.chunk.css.map",
-    "static/css/main.6e9853f2.chunk.css.map": "/pagesminiapp/static/css/main.6e9853f2.chunk.css.map",
-    "static/js/2.b48d695c.chunk.js.LICENSE": "/pagesminiapp/static/js/2.b48d695c.chunk.js.LICENSE",
+    "static/css/main.d8160e10.chunk.css.map": "/pagesminiapp/static/css/main.d8160e10.chunk.css.map",
+    "static/js/2.8a3f908e.chunk.js.LICENSE": "/pagesminiapp/static/js/2.8a3f908e.chunk.js.LICENSE",
     "static/media/style.css": "/pagesminiapp/static/media/SFProDisplay-Semibold.0538ddc9.ttf",
     "static/media/arrow_gray.svg": "/pagesminiapp/static/media/arrow_gray.b674f51f.svg",
     "static/media/arrow_navbar.svg": "/pagesminiapp/static/media/arrow_navbar.72514932.svg",
@@ -43,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.ec7ff13f.js",
     "static/css/2.fc16c441.chunk.css",
-    "static/js/2.b48d695c.chunk.js",
-    "static/css/main.6e9853f2.chunk.css",
-    "static/js/main.cd259e7f.chunk.js"
+    "static/js/2.8a3f908e.chunk.js",
+    "static/css/main.d8160e10.chunk.css",
+    "static/js/main.f635378f.chunk.js"
   ]
 }
