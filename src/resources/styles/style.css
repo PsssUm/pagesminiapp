@@ -141,7 +141,7 @@ input {
     text-align: center;
     font-family: SF-Bold;
     color: #000000;
-    margin: 13px 0px;
+    margin: 10px 0px;
   }
   .main_content{
     margin-top: var(--safe-area-inset-top);
