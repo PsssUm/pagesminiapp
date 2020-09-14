@@ -49,7 +49,7 @@ class Application extends React.Component {
     addNews(post){
         var news = this.state.news
         news.push(post)
-        this.setState({news : news, activeView : "news"})
+        this.setState({news : news, activeView : "create"})
         
     }
     openDetails(post){
