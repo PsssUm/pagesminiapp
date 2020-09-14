@@ -20,7 +20,7 @@ class Application extends React.Component {
     constructor(){
         super()
         this.state = {
-            activeView : 'editor',
+            activeView : 'create',
             pickedType : 'target',
             donation : getEpmtyModel(),
             send : false,
@@ -49,7 +49,7 @@ class Application extends React.Component {
     addNews(post){
         var news = this.state.news
         news.push(post)
-        this.setState({news : news, activeView : "create"})
+        this.setState({news : news, activeView : "news"})
         
     }
     openDetails(post){
