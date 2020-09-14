@@ -82,7 +82,7 @@ class DonationPostEditor extends React.Component {
                     </div>
                     
                 </div>
-                
+                <div onClick={this.send} className="vk_btn question_btn_next options_btn">Опубликовать</div>
             </div>
         );
     }

@@ -16,7 +16,7 @@ class Navbar extends React.Component {
             <div className="navbar">
                 <p className="navbar_title">{this.props.title}</p>
                 {this.props.back != undefined && <img onClick={() => {this.props.onBack(this.props.back)}} className="back_icon" src={back}/>}
-                {(this.props.isShowLine == undefined || this.props.isShowLine) && <div className="navbar_line"/>}
+                {/* {(this.props.isShowLine == undefined || this.props.isShowLine) && <div className="navbar_line"/>} */}
             </div>
         );
     }

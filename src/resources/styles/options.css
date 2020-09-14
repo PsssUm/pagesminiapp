@@ -1,6 +1,6 @@
 .options_btn{
     position: absolute;
-    bottom: 0;
+    bottom: var(--safe-area-inset-bottom);
 
 }
 .options_title{

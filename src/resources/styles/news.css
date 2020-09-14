@@ -8,6 +8,7 @@
     width: 44px;
 }
 .news_content{
+    margin-top: var(--safe-area-inset-top);
     background: #EBEDF0;
     min-height: calc(100vh - 56px);
 }

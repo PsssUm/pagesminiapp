@@ -22,11 +22,11 @@ class EditorNavbar extends React.Component {
                 </div>
                 
                 <img onClick={() => {this.props.onBack(this.props.back)}} className="back_icon" src={close_navbar}/>
-                <div onClick={() => {this.props.onSend()}} className="send_container">
+                {/* <div onClick={() => {this.props.onSend()}} className="send_container">
                     <img className="send_icon" src={send}/>
-                </div>
+                </div> */}
                 
-                <div className="navbar_line"/>
+                {/* <div className="navbar_line"/> */}
             </div>
         );
     }

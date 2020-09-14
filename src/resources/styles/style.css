@@ -125,8 +125,9 @@ input {
   }
   .navbar{
     position: fixed;
-    height: 56px;
+    height: var(--panelheader_height_ios);
     top: 0;
+    padding-top: var(--safe-area-inset-top);
     left: 0;
     right: 0;
     background: white;
@@ -143,7 +144,7 @@ input {
     margin: 13px 0px;
   }
   .main_content{
-
+    margin-top: var(--safe-area-inset-top);
   }
   .navbar_line{
     background: #D7D8D9;
@@ -157,7 +158,7 @@ input {
   .back_icon{
     position: absolute;
     left: 0;
-    top: 4px;
+    bottom: 4px;
     height: 44px;
     width: 44px;
   }

@@ -20,7 +20,7 @@ class Application extends React.Component {
     constructor(){
         super()
         this.state = {
-            activeView : 'create',
+            activeView : 'editor',
             pickedType : 'target',
             donation : getEpmtyModel(),
             send : false,

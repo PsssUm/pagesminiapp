@@ -9,7 +9,8 @@
     margin: 16px 12px 8px 12px;
   }
   .main_content_details{
-      display : block
+      display : block;
+      margin-top: var(--safe-area-inset-top);
   }
 
 
@@ -232,7 +233,7 @@
 
   .bottom_progress{
     position: fixed;
-    bottom: 0;
+    bottom: var(--safe-area-inset-bottom);
     width: 100%;
     background: white;
   }
