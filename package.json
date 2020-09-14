@@ -2,7 +2,7 @@
   "name": "vk-apps-get-money",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/psssum/psssum.github.io",
+  "homepage": "https://psssum.github.io",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
